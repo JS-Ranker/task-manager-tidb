@@ -1,4 +1,4 @@
-const API_URL = 'https://task-manager-tidb.onrender.com';
+const API_URL = 'https://task-manager-tidb.onrender.com/api';
 
 export const taskService = {
     // Obtener todas las tareas
